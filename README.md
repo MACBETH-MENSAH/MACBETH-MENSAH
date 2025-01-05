@@ -1,8 +1,8 @@
-<div align="left">
+<div align="center">
   <img src="YOUR_LOGO_URL" width="200">
 </div>
 
-<h1>Hi, I'm Macbeth Mensah 👋</h1>
+<h1>Ready to code the next big thing? 💻</h1>
 
 <h3 style="text-align: center; font-size: 36px; font-family: 'Fira Code', monospace; color: blue;">
   <span>
@@ -66,14 +66,16 @@
 
 ### GitHub Stats:
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=macbeth-mensah&show_icons=true&locale=en" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=macbeth-mensah&show_icons=true&locale=en&bg_color=000000" alt="GitHub Stats">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macbeth-mensah&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macbeth-mensah&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="Top Languages">
 </p>
-<p>
+<p style="background-color: black; padding: 10px; display: inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=macbeth-mensah" alt="GitHub Streak">
 </p>
+
+
 
 ---
 
