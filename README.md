@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ec134106-47b6-4c17-8260-31425547d8d7" width="400" height="300">
+  <img src="YOUR_LOGO_URLhttps://avatars.githubusercontent.com/u/175359750?v=4" width="200" height="180">
 </div>
 
 <h1>Ready to code the next big thing? 💻</h1>
@@ -28,8 +28,8 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://twitter.com/xmckingsson7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://x.com/xmckingsson7" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/X_logo_2023.svg" alt="X" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/macbeth-mensah" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
