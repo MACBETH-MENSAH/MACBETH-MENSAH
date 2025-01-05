@@ -12,6 +12,10 @@
   </a>
 </h3>
 
+<!-- Horizontal animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br><br>
+
 <div style="display: flex; align-items: flex-start;">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" width="300" align="right">
   <p>
@@ -20,7 +24,7 @@
   📫 <strong>How to reach me:</strong> <a href="mailto:sficiologikal@gmail.com">sficiologikal@gmail.com</a>
 </div>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3>Connect with me:</h3>
 <p align="left">
@@ -38,7 +42,7 @@
   </a>
 </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3>Languages and Tools:</h3>
 <p align="left">
@@ -58,7 +62,7 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
 </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3>GitHub Stats:</h3>
 <p>
@@ -71,7 +75,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=macbeth-mensah" alt="GitHub Streak">
 </p>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <h3>About Me:</h3>
 <ul>
@@ -80,6 +84,10 @@
   <li><strong>Hobbies:</strong> Exploring new tech, building automation systems, and learning about AI integration.</li>
 </ul>
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p><em>Thank you for visiting my profile! Feel free to connect with me to collaborate on exciting projects.</em></p>
+
+<!-- Horizontal animation -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br><br>
