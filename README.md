@@ -7,7 +7,7 @@
 <h3 style="text-align: center; font-size: 36px; font-family: 'Fira Code', monospace; color: blue;">
   <a href="https://git.io/typing-svg" target="_blank">
     <div style="text-align: center;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=32&pause=1000&color=0056FF&width=435&lines=Computer+Engineer_;Mobile+App+Developer_;Machine+Learning+Engineer_;Embedded+Systems+%26+IoT_;Frontend+Developer_" alt="Typing Animation">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=32&pause=1000&color=0056FF&width=435&lines=Computer+Engineer_;Mobile+App+Developer_;ML+Engineer_;Embedded+Systems+%26+IoT_;Frontend+Developer_" alt="Typing Animation">
     </div>
   </a>
 </h3>
