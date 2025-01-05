@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_LOGO_URL" width="200">
+  <img src="YOUR_LOGO_URLhttps://avatars.githubusercontent.com/u/175359750?v=4" width="200" height="180">
 </div>
 
 <h1>Ready to code the next big thing? 💻</h1>
