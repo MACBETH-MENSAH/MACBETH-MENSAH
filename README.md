@@ -69,13 +69,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=macbeth-mensah&show_icons=true&locale=en&bg_color=000000" alt="GitHub Stats">
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macbeth-mensah&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=macbeth-mensah&show_icons=true&locale=en&layout=compact&bg_color=000000&langs_count=10" alt="Top Languages">
 </p>
 <p style="background-color: black; padding: 10px; display: inline-block;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=macbeth-mensah" alt="GitHub Streak">
 </p>
-
-
 
 ---
 
