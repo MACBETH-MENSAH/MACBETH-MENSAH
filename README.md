@@ -21,8 +21,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=macbeth-mensah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
   </p>
-  📫 <strong>How to reach me:</strong> <a href="mailto:sficiologikal@gmail.com">sficiologikal@gmail.com</a>
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
